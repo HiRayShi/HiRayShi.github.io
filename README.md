@@ -8,10 +8,10 @@
 ### Working aptitude :
 * Computer Graphic & Multimedia.
 ### Technical Skill
-    Languages:
-      *  C
-      *  Python
-      *  HTML
+#### Languages:
+*  C
+*  Python
+*  HTML
      
 
 
