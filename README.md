@@ -5,13 +5,12 @@
 * Bachelor of B.B.A. (Business Computer) degrees in Business Computer from Valaya Alongkorn Rajabhat University ,since 2005.
 ### Posting / Position Held : 
 * Administrative Officer & Assistant Teacher in Computer Basic, Mathematics Division, Armed Forces Academy Preparatory School
-### Working aptitude :
+### Technical Skill :
 * Computer Graphic & Multimedia.
-### Technical Skill
-#### Languages:
-*  C
-*  Python
-*  HTML
+* Languages:
+**  C
+**  Python
+**  HTML
      
 
 
