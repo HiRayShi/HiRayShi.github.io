@@ -6,4 +6,4 @@
 * Administrative Officer & Assistant Teacher in Computer Basic, Mathematics Division, Armed Forces Academy Preparatory School
 ### Working aptitude :
 * Computer Graphic & Multimedia.
-<img src="ray2.jpg" border width="150">
+<img src="ray2.jpg" width="150">
