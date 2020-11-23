@@ -7,10 +7,7 @@
 * Administrative Officer & Assistant Teacher in Computer Basic, Mathematics Division, Armed Forces Academy Preparatory School
 ### Technical Skill :
 * Computer Graphic & Multimedia.
-* Languages:
-     **  C
-     **  Python
-     **  HTML
+* Languages: C , Python HTML
      
 
 
