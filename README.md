@@ -8,9 +8,9 @@
 ### Technical Skill :
 * Computer Graphic & Multimedia.
 * Languages:
-**  C
-**  Python
-**  HTML
+     **  C
+     **  Python
+     **  HTML
      
 
 
