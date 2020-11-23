@@ -1,5 +1,5 @@
 # Biography
-<img src="ray2.jpg" width="150">
+### <img src="ray2.jpg" width="150">
 ## Capt.Jaray Paensong 
 ### Highest Education : 
 * Bachelor of B.B.A. (Business Computer) degrees in Business Computer from Valaya Alongkorn Rajabhat University ,since 2005.
