@@ -8,6 +8,8 @@
 ### Technical Skill :
 * Computer Graphic & Multimedia.
 * Languages: C , Python HTML
+### AKA
+* DEE-RAY
      
 
 
