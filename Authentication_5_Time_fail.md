@@ -4,8 +4,8 @@
 
 |    No    |   Test condition                      |Expected Output     |
 |:------------ |-----------------------------------|--------------------|
-| TC-5  |   Input right Password on 5 th  login |Login Success       |
-| TC-6  |   Input wrong Password on 5 th login |Lock Account       |
+| TC-5  |   Input right password on the 5th  login |login success       |
+| TC-6  |   Input wrong password on the 5th login |lock account       |
 
-* keaittisak  Luithong
+* Keaittisak  Luithong
 * Jaray       Paensong
