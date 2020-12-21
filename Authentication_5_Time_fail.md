@@ -1,7 +1,6 @@
 # Test Case : Authentication 5 Time fail
 ## Test Senario : Authentication Fail 5 time Limit
-### Third time fail 5 Time
-#### prerequisition : login fail 4 time
+#### prerequisite : login fail 4 time
 
 |    No    |   Precodication                   |Test condition                      |Expected Output     |Actual output       |Test Browser  |  Test Comments |
 |:------------ |---------------------------------|-----------------------------------|--------------------|--------------------|-------------|-----------|
