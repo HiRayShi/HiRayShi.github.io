@@ -18,3 +18,18 @@
   * L_tmpnam for tmpnam
   * L_tmpnam_s for tmpnam_s
   * L_tmpnam for tmpnam_r
+  
+ ### There is a risk if you answered yes to any of those questions.
+ 
+ ## Recommended Secure Coding Practices
+ 
+* ใช้ฟังก์ชันที่เปิดไฟล์ชั่วคราวโดยตรงเช่น tmpfile, tmpfile_s, mkstemp หรือ mkstemps (สองตัวสุดท้ายอนุญาตให้ควบคุมชื่อไฟล์ได้แม่นยำยิ่งขึ้น)
+* หากคุณไม่สามารถกำจัดฟังก์ชันเหล่านี้ได้เมื่อใช้ชื่อที่สร้างขึ้นเพื่อเปิดไฟล์ให้ใช้ฟังก์ชันที่บังคับให้สร้างไฟล์และจะล้มเหลวหากมีไฟล์อยู่แล้ว
+
+### Sensitive Code Example
+
+<img src="11.PNG" >
+
+### Compliant Solution
+
+<img src="12.PNG" >
