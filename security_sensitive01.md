@@ -16,3 +16,5 @@ Capabilities are granted:
 When setting SUID/SGID attributes:
 
 <img src="02.PNG" >
+
+#### Author : Jaray Paensong
