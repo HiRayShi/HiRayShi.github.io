@@ -14,4 +14,5 @@ Capabilities are granted:
 เมื่อตั้งค่าความสามารถ:
 <img src="01.PNG" >
 When setting SUID/SGID attributes:
+
 <img src="02.PNG" >
