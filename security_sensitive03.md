@@ -35,10 +35,11 @@
 
 ## Sensitive Code Example
 
-<img src="21.PNG" width = 500 >
+<img src="21.PNG" width = 650 >
 
 ## Compliant Solution
 
 <img src="22.PNG" width = 400 >
 
 Author : Jaray Paensong
+Ref : https://rules.sonarsource.com/c/type/Security%20Hotspot/RSPEC-5816
