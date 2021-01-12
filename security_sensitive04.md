@@ -19,29 +19,29 @@ There is a risk if you answered yes to any of those questions.
 
 ## Sensitive Code Example
 
-* When creating a file or directory with permissions to "other group":
+* เมื่อสร้าง file หรือ directory ที่มีสิทธิ์สำหรับ "กลุ่มอื่น"
 
 <img src="31.PNG" >
 
-* When explicitly adding permissions to "other group" with chmod, fchmod or filesystem::permissions functions:
+* เมื่อเพิ่มสิทธิ์อย่างชัดเจนใน "กลุ่มอื่น" ด้วยฟังก์ชัน chmod, fchmod หรือ filesystem :: permissions:
 
 <img src="32.PNG" >
 
-* When defining the umask without read, write and execute permissions for "other group":
+* เมื่อคำสั่งที่ใช้่กำหนดโดยไม่ต้องอ่านให้เขียนและดำเนินการสิทธิ์สำหรับ "กลุ่มอื่น":
 
 <img src="33.PNG" >
 
 ## Compliant Solution
 
-* When creating a file or directory, do not set permissions to "other group":
+* เมื่อสร้าง file หรือ directory อย่าตั้งค่าสิทธิ์เป็น "กลุ่มอื่น":
 
 <img src="34.PNG" >
 
-* When using chmod, fchmod or filesystem::permissions functions, do not add permissions to "other group":
+* เมื่อใช้ฟังก์ชัน chmod, fchmod หรือ filesystem :: permissions อย่าเพิ่มสิทธิ์ให้กับ "กลุ่มอื่น":
 
 <img src="35.PNG" >
 
-When defining the umask, set read, write and execute permissions to other group:
+* เมื่อคำสั่งที่ใช้่กำหนดให้ตั้งค่าสิทธิ์อ่านเขียนและดำเนินการกับกลุ่มอื่น:
 
 <img src="36.PNG" >
 
