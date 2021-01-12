@@ -47,4 +47,4 @@ There is a risk if you answered yes to any of those questions.
 
 Author : Jaray Paensong
 
-Ref : https://rules.sonarsource.com/c/type/Security%20Hotspot/RSPEC-5816
+Ref : https://rules.sonarsource.com/c/type/Security%20Hotspot/RSPEC-2612
