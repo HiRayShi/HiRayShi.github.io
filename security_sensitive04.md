@@ -20,18 +20,29 @@ There is a risk if you answered yes to any of those questions.
 ## Sensitive Code Example
 
 * When creating a file or directory with permissions to "other group":
+
 <img src="31.PNG" >
+
 * When explicitly adding permissions to "other group" with chmod, fchmod or filesystem::permissions functions:
+
 <img src="32.PNG" >
+
 * When defining the umask without read, write and execute permissions for "other group":
+
 <img src="33.PNG" >
+
 ## Compliant Solution
 
 * When creating a file or directory, do not set permissions to "other group":
+
 <img src="34.PNG" >
+
 * When using chmod, fchmod or filesystem::permissions functions, do not add permissions to "other group":
+
 <img src="35.PNG" >
+
 When defining the umask, set read, write and execute permissions to other group:
+
 <img src="36.PNG" >
 
 Author : Jaray Paensong
