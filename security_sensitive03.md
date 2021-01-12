@@ -1,4 +1,5 @@
 <img src="20.PNG" >
+
 # Using "strncpy" or "wcsncpy" is security-sensitive
 
 * ในภาษา C string เป็นเพียง buffer ของอักขระโดยปกติจะใช้อักขระ null character  เป็นที่สังเกตสำหรับจุดสิ้นสุดของ string ซึ่งหมายความว่าผู้พัฒนาจะต้องตระหนักถึงรายละเอียด low-level 
@@ -33,6 +34,9 @@
 
 
 ## Sensitive Code Example
+
 <img src="21.PNG" >
+
 ## Compliant Solution
+
 <img src="22.PNG" >
