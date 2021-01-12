@@ -35,8 +35,10 @@
 
 ## Sensitive Code Example
 
-<img src="21.PNG" >
+<img src="21.PNG" width = 500 >
 
 ## Compliant Solution
 
-<img src="22.PNG" >
+<img src="22.PNG" width = 400 >
+
+Author : Jaray Paensong
