@@ -22,7 +22,7 @@
 ## Compliant Solution
 ตรวจสอบรหัสส่งคืนของ chdir และจัดการข้อผิดพลาด:
 
-<img src="52.PNG" width=200 >
+<img src="52.PNG" width=700 >
 
 Author : Jaray Paensong
 
